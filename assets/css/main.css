@@ -751,7 +751,7 @@ img {
 }
 
 a {
-  color: #15F3A8;
+  color: rgb(120,100,100);
   text-decoration: none;
 }
 a:hover {
