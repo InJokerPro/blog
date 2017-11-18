@@ -939,7 +939,7 @@ img.post-image, img.page-img {
   text-transform: uppercase;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.3);
   text-decoration: none;
-  background: #15F3A8;
+  background: rgb(100,80,80);
   -webkit-transition: all .35s;
   transition: all .35s;
 }
