@@ -917,7 +917,7 @@ pre code {
 }
 .main-article .more, .page-article .more, .post .more {
   text-decoration: none;
-  color: lightgreen;
+  color: rgb(180,150,150);
 }
 
 img.post-image, img.page-img {
