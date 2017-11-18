@@ -906,7 +906,7 @@ pre code {
   margin-top: 0.67rem;
 }
 .main-article .title-article a, .main-article .page-title a, .main-article .post-title a, .page-article .title-article a, .page-article .page-title a, .page-article .post-title a, .post .title-article a, .post .page-title a, .post .post-title a {
-  color: #15F3A8;
+  color: #d8ece6;
   text-decoration: none;
 }
 .main-article .post-date span, .main-article .page-date span, .page-article .post-date span, .page-article .page-date span, .post .post-date span, .post .page-date span {
