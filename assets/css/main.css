@@ -913,7 +913,7 @@ pre code {
   font-size: 0.8rem;
   text-transform: uppercase;
   font-family: monospace;
-  color: lightgreen;
+  color: rgb(140,100,100);
 }
 .main-article .more, .page-article .more, .post .more {
   text-decoration: none;
