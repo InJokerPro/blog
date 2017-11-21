@@ -19,7 +19,7 @@ df_train.head()
 ```
 You should see a dataframe like this : 
 
-![](sentiment_analysis/df_train.jpg)
+![](https://mem3rr0r.github.io/blog/assets/img/sentiment_analysis/df_train.jpg)
 
 The sentiment labels are:
 0 - negative 
