@@ -137,3 +137,4 @@ happiness = model.predict(kw)
 print(happiness)
 ```
 In my case, this model is still pretty stupid, giving only 1.92 'happiness'... But anyway, you get the idea. Try to change a dataset or tweak the values and see if you can get a better result. Personally, I think this dataset is still not enough for an nlp problem.
+In the next episode, we will try to treat this as a classification problem. Hold tight...
