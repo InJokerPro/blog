@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ML4Noobs Part 1.0: Sentiment regressor"
-img: china_tiger_leaping_gorge.jpg
+img: sentiment_analysis.jpg
 date:   2017-11-20 00:00:00 +0200
 description: A noob's guide to sentiment analysis with machine learning
 ---
